@@ -1,0 +1,15 @@
+{
+    "name": "rlbotnpm",
+    "version": "1.0.0",
+    "description": "npm para rlbot",
+    "dependencies": {
+    "discord.js": "^12.5.2"
+    },
+    "license": "MIT",
+    "repository": "carlixperz/rlbot-npm",
+    "main": "index.js",
+    "keywords": [
+      "rlbot"
+    ],
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  }
